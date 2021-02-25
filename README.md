@@ -1,2 +1,2 @@
 # laravelPerpus
-link-> http://techmuda4.com/alvito
+link-> http://techmuda4.com/alvito/laravelperpus
